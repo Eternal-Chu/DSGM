@@ -7,7 +7,7 @@ Education
 - collage
 
 experience
--intern at company
+- intern at some company
 
 skills
 - smart
