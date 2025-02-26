@@ -11,4 +11,4 @@ experience
 
 skills
 - smart
-- numbers
+- numbers.
