@@ -1,14 +1,13 @@
-# DSGM 2024 Data Science for Global Manager
+# William
 
-# Introduction
-
-Education
+### Education
 - Tunghai university
 - collage
 
-experience
+### Experience
 - intern at some company
 
-skills
-- smart
-- numbers.
+### Skills
+
+1. smart
+2. numbers.
